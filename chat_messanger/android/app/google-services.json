@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370463089908",
+    "project_id": "chat-rims",
+    "storage_bucket": "chat-rims.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370463089908:android:8775f48b9f36b7ef186aa1",
+        "android_client_info": {
+          "package_name": "com.example.chat_messanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370463089908-1omchh75ng79tn5vhq4qvlo9n6pffetf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oD6NySzz89DoXKACgBRntPvXMsgGmBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370463089908-1omchh75ng79tn5vhq4qvlo9n6pffetf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
